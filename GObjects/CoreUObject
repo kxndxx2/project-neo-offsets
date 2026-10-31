@@ -1,0 +1,103 @@
+[00000001] Class CoreUObject.Object
+
+[000000CD] Class CoreUObject.Package
+
+[000000CE] Class CoreUObject.Field
+
+[000000CF] Class CoreUObject.struct
+
+[000000D0] Class CoreUObject.Class
+
+[00000BD0] Class CoreUObject.GCObjectReferencer
+
+[00000BD1] Class CoreUObject.TextBuffer
+
+[00000BD2] Class CoreUObject.ScriptStruct
+
+[00000BD3] Class CoreUObject.Function
+
+[00000BD4] Class CoreUObject.DelegateFunction
+
+[00000BD5] Class CoreUObject.SparseDelegateFunction
+
+[00000BD6] Class CoreUObject.DynamicClass
+
+[00000BD7] Class CoreUObject.PackageMap
+
+[00000BD8] Class CoreUObject.Enum
+
+[00000BD9] Class CoreUObject.Property
+
+[00000BDA] Class CoreUObject.EnumProperty
+
+[00000BDB] Class CoreUObject.LinkerPlaceholderClass
+
+[00000BDC] Class CoreUObject.LinkerPlaceholderExportObject
+
+[00000BDD] Class CoreUObject.LinkerPlaceholderFunction
+
+[00000BDE] Class CoreUObject.MetaData
+
+[00000BDF] Class CoreUObject.ObjectRedirector
+
+[00000BE0] Class CoreUObject.ArrayProperty
+
+[00000BE1] Class CoreUObject.ObjectPropertyBase
+
+[00000BE2] Class CoreUObject.BoolProperty
+
+[00000BE3] Class CoreUObject.NumericProperty
+
+[00000BE4] Class CoreUObject.ByteProperty
+
+[00000BE5] Class CoreUObject.ObjectProperty
+
+[00000BE6] Class CoreUObject.ClassProperty
+
+[00000BE7] Class CoreUObject.DelegateProperty
+
+[00000BE8] Class CoreUObject.DoubleProperty
+
+[00000BE9] Class CoreUObject.FloatProperty
+
+[00000BEA] Class CoreUObject.IntProperty
+
+[00000BEB] Class CoreUObject.Int16Property
+
+[00000BEC] Class CoreUObject.Int64Property
+
+[00000BED] Class CoreUObject.Int8Property
+
+[00000BEE] Class CoreUObject.InterfaceProperty
+
+[00000BEF] Class CoreUObject.LazyObjectProperty
+
+[00000BF0] Class CoreUObject.MapProperty
+
+[00000BF1] Class CoreUObject.MulticastDelegateProperty
+
+[00000BF2] Class CoreUObject.MulticastInlineDelegateProperty
+
+[00000BF3] Class CoreUObject.MulticastSparseDelegateProperty
+
+[00000BF4] Class CoreUObject.NameProperty
+
+[00000BF5] Class CoreUObject.SetProperty
+
+[00000BF6] Class CoreUObject.SoftObjectProperty
+
+[00000BF7] Class CoreUObject.SoftClassProperty
+
+[00000BF8] Class CoreUObject.StrProperty
+
+[00000BF9] Class CoreUObject.StructProperty
+
+[00000BFA] Class CoreUObject.UInt16Property
+
+[00000BFB] Class CoreUObject.UInt32Property
+
+[00000BFC] Class CoreUObject.UInt64Property
+
+[00000BFD] Class CoreUObject.WeakObjectProperty
+
+[00000BFE] Class CoreUObject.TextProperty
